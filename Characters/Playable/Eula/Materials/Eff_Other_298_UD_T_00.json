@@ -1,0 +1,262 @@
+{
+  "m_Shader": {
+    "m_FileID": 2,
+    "m_PathID": 2854121428418910931,
+    "Name": "miHoYo/Effects/Dissolve_Add",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_AddTex": {
+        "m_Texture": {
+          "m_FileID": 1,
+          "m_PathID": 2851071484887756288,
+          "Name": "Eff_Avatar_Eula_Cloak_02",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_AddTexUvmoveTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 7836204360011446828,
+          "Name": "Eff_Turbulence_21",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_DissolveTex": {
+        "m_Texture": {
+          "m_FileID": 4,
+          "m_PathID": 7836204360011446828,
+          "Name": "Eff_Turbulence_21",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 0.5
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_MainTex012Texs": {
+        "m_Texture": {
+          "m_FileID": 3,
+          "m_PathID": 7961718772593645213,
+          "Name": "Eff_Avatar_Eula_Cloak_01",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_UVmoveTex": {
+        "m_Texture": {
+          "m_FileID": 5,
+          "m_PathID": 851314730019422757,
+          "Name": "Eff_SmokeNoise_03",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_texcoord": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AddTexBrightness": 10.0,
+      "_AddTexColorChannelSwitch": 0.0,
+      "_AddTexUvmoveTexBrightness": 9.0,
+      "_AddTexUvmoveTex_Uspeed": 0.3,
+      "_AddTexUvmoveTex_Vspeed": 0.4,
+      "_AlphaBrightness": 1.0,
+      "_AlphaEdgeFade": 0.35,
+      "_AlphaFadeByDistanceToggle": 0.0,
+      "_AlphaFadeDistance": 2.0,
+      "_AlphaFadeDistanceInvertToggle": 0.0,
+      "_AlphaFadeOffset": 0.0,
+      "_AlphaSoftedgePower": 1.0,
+      "_AlphaSoftedgeScale": 1.0,
+      "_AlphaSoftedgeToggle": 0.0,
+      "_BaseTexAlphaBrightness": 1.0,
+      "_BaseTexAlphaChannelSwitch": 0.0,
+      "_BaseTexColorBrightness": 3.0,
+      "_BaseTexColorChannelSwitch": 0.0,
+      "_BaseTexURandomToggle": 0.0,
+      "_BaseTexVRandomToggle": 0.0,
+      "_BaseTex_Uspeed": 0.0,
+      "_BaseTex_Vspeed": 0.3,
+      "_BlendOP": 0.0,
+      "_ColorBrightness": 1.0,
+      "_Cull": 0.0,
+      "_DepthFade": 1.0,
+      "_DepthThresh": 0.005,
+      "_Dissolve": 1.0,
+      "_DissolveTexAlphaBrightness": 0.5,
+      "_DissolveTexChannelSwitch": 0.0,
+      "_DissolveTex_Uspeed": 0.0,
+      "_DissolveTex_Vspeed": 0.3,
+      "_DstBlendMode": 10.0,
+      "_EffectedByFog": 0.0,
+      "_Float1": 1.0,
+      "_Float2": 0.0,
+      "_Float3": 1.0,
+      "_Keyword0": 3.0,
+      "_Lerp": 1.0,
+      "_LerpAlphaScaler": 0.0,
+      "_MHYZBias": 0.0,
+      "_MainTex02AlphaBrightness": 0.0,
+      "_MainTex02Brightness": 1.0,
+      "_MainTex03AlphaBrightness": 2.0,
+      "_MainTex03Brightness": 1.5,
+      "_MainTex1Brightness": 2.0,
+      "_MainTex1ColorChannelSwitch": 0.0,
+      "_MainTex2Brightness": 1.0,
+      "_MainTex2ColorChannelSwitch": 3.0,
+      "_MainTexAlphaBrightness": 1.0,
+      "_MainTexRGBBrightness": 2.0,
+      "_MaskTexBlendModeToggle": 0.0,
+      "_MaskTexBrightness": 1.0,
+      "_MaskTexChannelSwitch": 2.0,
+      "_MaskTexToggle": 0.0,
+      "_MaskTex_Uspeed": 0.0,
+      "_MaskTex_Vspeed": 0.0,
+      "_MotionVectorsAlphaCutoff": 0.0,
+      "_NoiseIntensityOnMask": 0.0,
+      "_NoiseTexChannelSwitch": 0.0,
+      "_NoiseTexToggle": 0.0,
+      "_NoiseTexUVRandomToggle": 0.0,
+      "_NoiseTex_Uspeed": 0.0,
+      "_NoiseTex_Vspeed": 1.0,
+      "_Noise_Brightness": 0.0,
+      "_Noise_Offset": 0.0,
+      "_PolygonOffsetFactor": 0.0,
+      "_PolygonOffsetUnit": 0.0,
+      "_SOFTPARTICLES": 0.0,
+      "_SrcBlendMode": 5.0,
+      "_UVmoveTexAlphaBrightness": 1.0,
+      "_UVmoveTexAlphaChannelSwitch": 3.0,
+      "_UVmoveTexAlphaEdgeFade": 0.5,
+      "_UVmoveTexColorBrightness": 3.0,
+      "_UVmoveTexColorChannelSwitch": 0.0,
+      "_UVmoveTex_Uspeed": 0.0,
+      "_UVmoveTex_Vspeed": 0.3,
+      "_UVmove_Uspeed": 0.0,
+      "_UVmove_Vspeed": 0.3,
+      "_Ztest": 4.0,
+      "_Zwrite": 0.0
+    },
+    "m_Colors": {
+      "_AddTexColor": {
+        "r": 0.77205884,
+        "g": 0.9151115,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_BaseTexAlphaColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Color0": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DayColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MainColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MainTex1DarkColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MainTex1LightColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MainTex2AlphaColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MainTex2Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_MeshParticleColorArray": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_UVmoveTexColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "Eff_Other_298_UD_T_00",
+  "Name": "Eff_Other_298_UD_T_00"
+}
