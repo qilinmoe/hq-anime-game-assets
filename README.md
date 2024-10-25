@@ -1,3 +1,10 @@
+<div align="center">
+
+<h3> This repo is now archived!</h3>
+<h3> It will not get any more updates. </h3>
+
+</div>
+
 <h1 align="center">︶꒷꒦︶ ๋࣭ ⭑</h1>
 
 ###
